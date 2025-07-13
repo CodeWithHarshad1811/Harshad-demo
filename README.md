@@ -1,2 +1,2 @@
 # Harshad-demo
-My First Program
+My First Git Repository
